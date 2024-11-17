@@ -4,7 +4,7 @@
 
 I’m an independent iOS developer passionate about creating meaningful apps that enrich daily life. Currently, I have 6 apps live on the App Store, including:
   - Memorize - A flashcards learning app.Bookie
-  - Bookie - A reading tracker for book lovers.
+  - [Bookie](https://kubamil.substack.com/p/weekly-review-1) - A reading tracker for book lovers.
   - Coffee Note - A journal for coffee tasting.
   - Escape - A travel journal to keep your memories alive.
   - Palace - A math game to memorize pi digits.
