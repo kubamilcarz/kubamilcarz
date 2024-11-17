@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Kuba 👋
 
-<!--
-**kubamilcarz/kubamilcarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🎯 iOS Developer | 🖥️ Building apps for iOS, visionOS, and macOS | 🎨 Crafting ideas into polished experiences*
 
-Here are some ideas to get you started:
+I’m an independent iOS developer passionate about creating meaningful apps that enrich daily life. Currently, I have 6 apps live on the App Store, including:
+  - Memorize - A flashcards learning app.Bookie
+  - Bookie - A reading tracker for book lovers.
+  - Coffee Note - A journal for coffee tasting.
+  - Escape - A travel journal to keep your memories alive.
+  - Palace - A math game to memorize pi digits.
+  - Reflect - A weekly review journal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in Swift and SwiftUI. I’m constantly exploring new technologies like Flutter and The Composable Architecture to level up my skills.
+
+### 📬 Let’s Connect
+- 📧 Email: me@kubamilcarz.com
+- 🌐 Portfolio: kubamilcarz.com
+- 🐦 Blue Sky: https://bsky.app/profile/kubamilcarz.bsky.social
+- 🔗 LinkedIn: https://www.linkedin.com/in/kubamilcarz/
+
+---
+
+“Code is not just for machines, but also for the people who read it.” 🧑‍💻
+
+Feel free to explore my repositories, open an issue, or drop me a message. Let’s build something amazing together! 🚀
